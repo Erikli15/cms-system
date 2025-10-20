@@ -1,0 +1,9 @@
+/vendor/
+/node_modules/
+/storage/logs/
+/storage/chache/
+/storage/sessions/
+/storage/uploads/
+.env
+*.log
+.DS_Store
